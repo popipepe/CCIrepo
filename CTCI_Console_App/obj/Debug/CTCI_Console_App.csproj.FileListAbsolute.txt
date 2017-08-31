@@ -7,3 +7,6 @@ c:\users\roberto.rivero\documents\visual studio 2013\Projects\MsCode\CTCI_Consol
 C:\Users\roberto.rivero\Documents\Visual Studio 2013\Projects\CTCI_Console_App\CTCI_Console_App\bin\Debug\CTCI_Console_App.exe.config
 C:\Users\roberto.rivero\Documents\Visual Studio 2013\Projects\CTCI_Console_App\CTCI_Console_App\obj\Debug\CTCI_Console_App.exe
 C:\Users\roberto.rivero\Documents\Visual Studio 2013\Projects\CTCI_Console_App\CTCI_Console_App\obj\Debug\CTCI_Console_App.pdb
+C:\Users\roberto.rivero\Documents\Visual Studio 2013\Projects\CTCI_Console_App\CTCI_Console_App\bin\Debug\CTCI_Console_App.exe
+C:\Users\roberto.rivero\Documents\Visual Studio 2013\Projects\CTCI_Console_App\CTCI_Console_App\bin\Debug\CTCI_Console_App.pdb
+C:\Users\roberto.rivero\Documents\Visual Studio 2013\Projects\CTCI_Console_App\CTCI_Console_App\obj\Debug\CTCI_Console_App.csprojResolveAssemblyReference.cache

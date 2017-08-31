@@ -25,6 +25,10 @@ namespace CTCI_Console_App
             {
                 this.IsUnique();
             }
+            else if ( type == probType.IsPermutation)
+            {
+                this.IsPermutation();
+            }
         }
     }
 }

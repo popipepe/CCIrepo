@@ -10,15 +10,15 @@ namespace CTCI_Console_App
     {
         private void IsUnique()
         {
-            String isuniqueword = getUniqueWord();
+            String isuniqueword = getString();
 
             bool answer = mIsUnique(isuniqueword);
 
-            Console.WriteLine(answer);
-            Console.ReadLine();
+            Console.WriteLine("Is word made of unique characters? -" + answer);
+            FinishProblem();
 
         }
-        private String getUniqueWord()
+        private String getString()
         {
             Console.WriteLine("Write a word please");
             String word = Console.ReadLine();

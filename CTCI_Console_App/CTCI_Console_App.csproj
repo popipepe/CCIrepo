@@ -41,6 +41,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="IsPermutation.cs" />
     <Compile Include="IsUnique.cs" />
     <Compile Include="ProblemMain.cs" />
     <Compile Include="MainExecute.cs" />
