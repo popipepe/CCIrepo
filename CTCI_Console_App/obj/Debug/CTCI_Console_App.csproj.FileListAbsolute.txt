@@ -1,0 +1,6 @@
+c:\users\roberto.rivero\documents\visual studio 2013\Projects\MsCode\CTCI_Console_App\CTCI_Console_App\bin\Debug\CTCI_Console_App.exe.config
+c:\users\roberto.rivero\documents\visual studio 2013\Projects\MsCode\CTCI_Console_App\CTCI_Console_App\bin\Debug\CTCI_Console_App.exe
+c:\users\roberto.rivero\documents\visual studio 2013\Projects\MsCode\CTCI_Console_App\CTCI_Console_App\bin\Debug\CTCI_Console_App.pdb
+c:\users\roberto.rivero\documents\visual studio 2013\Projects\MsCode\CTCI_Console_App\CTCI_Console_App\obj\Debug\CTCI_Console_App.csprojResolveAssemblyReference.cache
+c:\users\roberto.rivero\documents\visual studio 2013\Projects\MsCode\CTCI_Console_App\CTCI_Console_App\obj\Debug\CTCI_Console_App.exe
+c:\users\roberto.rivero\documents\visual studio 2013\Projects\MsCode\CTCI_Console_App\CTCI_Console_App\obj\Debug\CTCI_Console_App.pdb
