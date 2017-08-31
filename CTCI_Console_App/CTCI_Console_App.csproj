@@ -41,7 +41,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
+    <Compile Include="IsUnique.cs" />
     <Compile Include="ProblemMain.cs" />
     <Compile Include="MainExecute.cs" />
     <Compile Include="probType.cs" />
