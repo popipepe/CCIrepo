@@ -18,12 +18,6 @@ namespace CTCI_Console_App
             Console.WriteLine("Are Word1 and Word2 Permutations? -" + answer);
             FinishProblem();
         }
-        public void FinishProblem()
-        {
-            Console.WriteLine("--------- ^^ SOLUTION DONE ^^ ---------");
-            Console.WriteLine("PRESS ANY BUTTON TO CONTINUE");
-            Console.ReadLine();
-        }
         public bool mIsPermutation(String W1, String W2)
         {
             if(W1.Length != W2.Length)

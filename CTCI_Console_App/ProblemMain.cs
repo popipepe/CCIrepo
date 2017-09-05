@@ -29,6 +29,10 @@ namespace CTCI_Console_App
             {
                 this.IsPermutation();
             }
+            else if ( type == probType.IsPalindromePermutation)
+            {
+                this.IsPalindromePermutation();
+            }
         }
     }
 }

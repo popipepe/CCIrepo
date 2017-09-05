@@ -16,7 +16,7 @@ namespace CTCI_Console_App
                 RunProblems();
                 Console.WriteLine("Continue with more problems? y/n");
                 String info = Console.ReadLine();
-                if (info == "n")
+                if (info != "y")
                 {
                     continuar = false;
                 }

@@ -18,13 +18,6 @@ namespace CTCI_Console_App
             FinishProblem();
 
         }
-        private String getString()
-        {
-            Console.WriteLine("Write a word please");
-            String word = Console.ReadLine();
-
-            return word;
-        }
         private bool mIsUnique(String uWord)
         {
             if(uWord.Length > 256)

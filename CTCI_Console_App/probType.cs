@@ -13,7 +13,8 @@ namespace CTCI_Console_App
 
         //Arrays and Strings.
         IsUnique,
-        IsPermutation
+        IsPermutation,
+        IsPalindromePermutation
 
     }
 }
