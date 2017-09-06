@@ -10,3 +10,9 @@ C:\Users\roberto.rivero\Documents\Visual Studio 2013\Projects\CTCI_Console_App\C
 C:\Users\roberto.rivero\Documents\Visual Studio 2013\Projects\CTCI_Console_App\CTCI_Console_App\bin\Debug\CTCI_Console_App.exe
 C:\Users\roberto.rivero\Documents\Visual Studio 2013\Projects\CTCI_Console_App\CTCI_Console_App\bin\Debug\CTCI_Console_App.pdb
 C:\Users\roberto.rivero\Documents\Visual Studio 2013\Projects\CTCI_Console_App\CTCI_Console_App\obj\Debug\CTCI_Console_App.csprojResolveAssemblyReference.cache
+C:\Users\roberto.rivero\Desktop\CCI_Project_And_Tests\CCI\trunk\CTCI_Console_App\bin\Debug\CTCI_Console_App.exe.config
+C:\Users\roberto.rivero\Desktop\CCI_Project_And_Tests\CCI\trunk\CTCI_Console_App\obj\Debug\CTCI_Console_App.exe
+C:\Users\roberto.rivero\Desktop\CCI_Project_And_Tests\CCI\trunk\CTCI_Console_App\obj\Debug\CTCI_Console_App.pdb
+C:\Users\roberto.rivero\Desktop\CCI_Project_And_Tests\CCI\trunk\CTCI_Console_App\bin\Debug\CTCI_Console_App.exe
+C:\Users\roberto.rivero\Desktop\CCI_Project_And_Tests\CCI\trunk\CTCI_Console_App\bin\Debug\CTCI_Console_App.pdb
+C:\Users\roberto.rivero\Desktop\CCI_Project_And_Tests\CCI\trunk\CTCI_Console_App\obj\Debug\CTCI_Console_App.csprojResolveAssemblyReference.cache
