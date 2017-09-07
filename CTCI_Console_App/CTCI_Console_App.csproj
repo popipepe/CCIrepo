@@ -62,6 +62,8 @@
     <Compile Include="MainExecute.cs" />
     <Compile Include="Problems\IsPalindromePermutation.cs" />
     <Compile Include="Problems\IsPermutation.cs" />
+    <Compile Include="Problems\OneAway.cs" />
+    <Compile Include="Problems\URLfyString.cs" />
     <Compile Include="Problems\IsUnique.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

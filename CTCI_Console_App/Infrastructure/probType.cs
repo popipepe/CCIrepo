@@ -14,7 +14,9 @@ namespace CTCI_Console_App
         //Arrays and Strings.
         IsUnique,
         IsPermutation,
-        IsPalindromePermutation
+        IsPalindromePermutation,
+        URLfy,
+        OneAway
 
     }
 }

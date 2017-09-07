@@ -33,6 +33,14 @@ namespace CTCI_Console_App
             {
                 this.IsPalindromePermutation();
             }
+            else if( type == probType.URLfy)
+            {
+                this.URLfyString();
+            }
+            else if ( type == probType.OneAway)
+            {
+                this.OneAway();
+            }
         }
     }
 }
