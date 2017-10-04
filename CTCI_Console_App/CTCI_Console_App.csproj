@@ -60,9 +60,12 @@
     <Compile Include="Infrastructure\SharedMethods.cs" />
     <Compile Include="ProblemMain.cs" />
     <Compile Include="MainExecute.cs" />
+    <Compile Include="Problems\FirstNonRepeated.cs" />
+    <Compile Include="Problems\FirstDuplicate.cs" />
     <Compile Include="Problems\IsPalindromePermutation.cs" />
     <Compile Include="Problems\IsPermutation.cs" />
     <Compile Include="Problems\OneAway.cs" />
+    <Compile Include="Problems\DateToFormat.cs" />
     <Compile Include="Problems\URLfyString.cs" />
     <Compile Include="Problems\IsUnique.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

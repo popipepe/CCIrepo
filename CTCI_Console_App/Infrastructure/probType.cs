@@ -16,7 +16,10 @@ namespace CTCI_Console_App
         IsPermutation,
         IsPalindromePermutation,
         URLfy,
-        OneAway
+        OneAway,
+        DateToFormat,
+        FirstDuplicate,
+        FirstNonRepeated
 
     }
 }

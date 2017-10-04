@@ -17,7 +17,7 @@ namespace CTCI_Console_App
         }
         private String getString()
         {
-            Console.WriteLine("Write a word please");
+            Console.WriteLine("Press enter when writen");
             String word = Console.ReadLine();
 
             return word;

@@ -10,6 +10,7 @@ namespace CTCI_Console_App
     {
         private void IsUnique()
         {
+            Console.WriteLine("--Write anything--");
             String isuniqueword = getString();
 
             bool answer = mIsUnique(isuniqueword);

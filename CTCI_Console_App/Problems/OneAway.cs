@@ -10,7 +10,9 @@ namespace CTCI_Console_App
     {
         private void OneAway()
         {
-            String word1 = getString(); 
+            Console.WriteLine("--Word 1--");
+            String word1 = getString();
+            Console.WriteLine("--Word 2--");
             String word2 = getString();
 
             bool answer = mOneAway(word1, word2);

@@ -10,7 +10,9 @@ namespace CTCI_Console_App
     {
         public void IsPermutation()
         {
+            Console.WriteLine("--Word 1--");
             String Word1 = getString();
+            Console.WriteLine("--Word 2--");
             String Word2 = getString();
 
             bool answer = mIsPermutation(Word1, Word2);

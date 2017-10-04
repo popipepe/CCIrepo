@@ -41,6 +41,18 @@ namespace CTCI_Console_App
             {
                 this.OneAway();
             }
+            else if (type == probType.DateToFormat)
+            {
+                this.DateToFormat();
+            }
+            else if (type == probType.FirstDuplicate)
+            {
+                this.FirstDuplicate();
+            }
+            else if (type == probType.FirstNonRepeated)
+            {
+                this.FirstNonDuplicate();
+            }
         }
     }
 }
