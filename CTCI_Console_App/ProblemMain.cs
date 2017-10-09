@@ -53,6 +53,10 @@ namespace CTCI_Console_App
             {
                 this.FirstNonDuplicate();
             }
+            else if (type == probType.ConsecutiveDistanceRating)
+            {
+                this.ConsecutiveDistanceRating();
+            }
         }
     }
 }

@@ -27,7 +27,7 @@ namespace CTCI_Console_App
         {
             Console.WriteLine("Write the name of the file to test");
             String path = Environment.GetFolderPath(Environment.SpecialFolder.UserProfile) +
-                @"\Desktop\CCI_Project_And_Tests\CCI\trunk\CTCI_Console_App\ProblemTestFiles";
+                @"\Desktop\CCI_Project_And_Tests\CCI\trunk\CTCI_Console_App\ProblemTestFiles\";
             path = path + Console.ReadLine();
             string[] lines;
             List<String> listOfLines = new List<String>();

@@ -19,7 +19,8 @@ namespace CTCI_Console_App
         OneAway,
         DateToFormat,
         FirstDuplicate,
-        FirstNonRepeated
+        FirstNonRepeated,
+        ConsecutiveDistanceRating
 
     }
 }
