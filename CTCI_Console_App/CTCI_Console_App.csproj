@@ -60,6 +60,7 @@
     <Compile Include="Infrastructure\SharedMethods.cs" />
     <Compile Include="ProblemMain.cs" />
     <Compile Include="MainExecute.cs" />
+    <Compile Include="Problems\HangMan.cs" />
     <Compile Include="Problems\ConsecutiveDistanceRating.cs" />
     <Compile Include="Problems\FirstNonRepeated.cs" />
     <Compile Include="Problems\FirstDuplicate.cs" />

@@ -57,6 +57,10 @@ namespace CTCI_Console_App
             {
                 this.ConsecutiveDistanceRating();
             }
+            else if (type == probType.HangMan)
+            {
+                this.HangMan();
+            }
         }
     }
 }

@@ -20,7 +20,8 @@ namespace CTCI_Console_App
         DateToFormat,
         FirstDuplicate,
         FirstNonRepeated,
-        ConsecutiveDistanceRating
+        ConsecutiveDistanceRating,
+        HangMan
 
     }
 }
