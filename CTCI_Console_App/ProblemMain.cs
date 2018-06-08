@@ -65,6 +65,10 @@ namespace CTCI_Console_App
             {
                 this.SecetCodes();
             }
+            else if (type == probType.Tally)
+            {
+                this.Tally();
+            }
         }
     }
 }

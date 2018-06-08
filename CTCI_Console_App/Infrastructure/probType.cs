@@ -22,7 +22,8 @@ namespace CTCI_Console_App
         FirstNonRepeated,
         ConsecutiveDistanceRating,
         HangMan,
-        SecretCodes
+        SecretCodes,
+        Tally
 
     }
 }
