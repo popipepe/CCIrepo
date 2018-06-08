@@ -61,6 +61,10 @@ namespace CTCI_Console_App
             {
                 this.HangMan();
             }
+            else if (type == probType.SecretCodes)
+            {
+                this.SecetCodes();
+            }
         }
     }
 }
