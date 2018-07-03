@@ -23,7 +23,8 @@ namespace CTCI_Console_App
         ConsecutiveDistanceRating,
         HangMan,
         SecretCodes,
-        Tally
+        Tally,
+        CompressWord
 
     }
 }

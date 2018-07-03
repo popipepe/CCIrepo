@@ -69,6 +69,10 @@ namespace CTCI_Console_App
             {
                 this.Tally();
             }
+            else if (type == probType.CompressWord)
+            {
+                this.CompressWord();
+            }
         }
     }
 }
