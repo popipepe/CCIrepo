@@ -73,6 +73,18 @@ namespace CTCI_Console_App
             {
                 this.CompressWord();
             }
+            else if (type == probType.RotateMatrix)
+            {
+                this.RotateMatrix();
+            }
+            else if (type == probType.ZeroMatrix)
+            {
+                this.ZeroMatrix();
+            }
+            else if (type == probType.IsRotation)
+            {
+                this.IsRotation();
+            }
         }
     }
 }

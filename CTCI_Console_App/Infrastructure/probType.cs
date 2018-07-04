@@ -24,7 +24,10 @@ namespace CTCI_Console_App
         HangMan,
         SecretCodes,
         Tally,
-        CompressWord
+        CompressWord,
+        RotateMatrix,
+        ZeroMatrix,
+        IsRotation
 
     }
 }
