@@ -60,6 +60,7 @@
     <Compile Include="Infrastructure\SharedMethods.cs" />
     <Compile Include="ProblemMain.cs" />
     <Compile Include="MainExecute.cs" />
+    <Compile Include="Problems\CompressWord - Copy.cs" />
     <Compile Include="Problems\IsRotation.cs" />
     <Compile Include="Problems\ZeroMatrix.cs" />
     <Compile Include="Problems\RotateMatrix.cs" />

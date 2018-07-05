@@ -27,7 +27,8 @@ namespace CTCI_Console_App
         CompressWord,
         RotateMatrix,
         ZeroMatrix,
-        IsRotation
+        IsRotation,
+        NoDupes
 
     }
 }

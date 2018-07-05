@@ -85,6 +85,10 @@ namespace CTCI_Console_App
             {
                 this.IsRotation();
             }
+            else if (type == probType.NoDupes)
+            {
+                this.NoDupes();
+            }
         }
     }
 }
