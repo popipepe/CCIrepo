@@ -28,7 +28,8 @@ namespace CTCI_Console_App
         RotateMatrix,
         ZeroMatrix,
         IsRotation,
-        NoDupes
+        NoDupes,
+        WhereIsLoop
 
     }
 }

@@ -62,6 +62,7 @@
     <Compile Include="MainExecute.cs" />
     <Compile Include="Problems\CompressWord - Copy.cs" />
     <Compile Include="Problems\IsRotation.cs" />
+    <Compile Include="Problems\WhereIsLoop.cs" />
     <Compile Include="Problems\ZeroMatrix.cs" />
     <Compile Include="Problems\RotateMatrix.cs" />
     <Compile Include="Problems\CompressWord.cs" />

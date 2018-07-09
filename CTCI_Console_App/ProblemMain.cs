@@ -89,6 +89,10 @@ namespace CTCI_Console_App
             {
                 this.NoDupes();
             }
+            else if (type == probType.WhereIsLoop)
+            {
+                this.WhereIsLoop();
+            }
         }
     }
 }
